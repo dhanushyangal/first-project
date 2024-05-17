@@ -14,16 +14,16 @@ list_of_files = [
    "src/pipeline/__init__.py",
    "src/pipeline/training_pipeline.py",
    "src/pipeline/prediction_pipeline.py",
-   "src/utils/_init_.py"
-   "src/utils/units.py"
-   "src/logger/logging.py"
-   "src/exception/exception.py" 
+   "src/utils/_init_.py",
+   "src/utils/units.py",
+   "src/logger/logging.py",
+   "src/exception/exception.py", 
    "tests/__init__.py",
    "tests/unit/__init__.py",
    "tests/integration/__init__.py",
    "init_setup.sh",
    "requirements.txt", 
-   "requirements_dev.txt"
+   "requirements_dev.txt",
    "setup.py",
    "setup.cfg",
    "pyproject.toml",
